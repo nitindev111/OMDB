@@ -12,10 +12,7 @@
 
 4Applications using ReactJs  can be build very efficiently with state management uisng "redux".But at this time point of time i have not used that.
 
-5.Mostly we are given html wireframes-html/css..So I am not much good with CSS part.I managed to do some CSS.
-
-
-6.Enter string into the text box and click search button.
+5.Enter string into the text box and click search button.
 
 A list of movies will be displayed.
 click on the poster to get details of that movie at the bottom.

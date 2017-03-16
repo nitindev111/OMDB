@@ -1,0 +1,50 @@
+
+#searchText {
+  background:#f7bc5d;
+  text-align: center;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    width:100%}
+
+
+.logo h3{
+    width: 100%;
+    text-align: center
+}
+body{
+    text-align: center!important;
+    background:#f5ab35;
+    color:white
+       
+}
+
+.SearchArea input #SearchInput{
+    width: 100%;
+    text-align: center;
+    background-color: #f7bc5d;
+}
+
+.ImagesGrid{
+ line-height: 30px;
+  -webkit-column-count: 3;
+  -webkit-column-gap:   10px;
+  column-count:         3;
+  column-gap:           4px;  
+  list-style: none;
+}
+
+.Description p{
+     text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Description{
+    background:#f7bc5d!important;
+}
+
+
+
+

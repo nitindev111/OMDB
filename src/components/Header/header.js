@@ -6,7 +6,7 @@ export default class Header extends React.Component {
     return (
      <div className="logo">
       <img id="logo" src="images/omdb-logo.png"/>
-      <h3 id="searchText">Search For Your Favorite Movie...</h3>
+      <h3 id="searchText">Search For Your Favorite Movie Here...</h3>
      </div>
     );
   }
